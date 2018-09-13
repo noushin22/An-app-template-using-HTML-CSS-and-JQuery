@@ -1,2 +1,0 @@
-# App-template-using-HTML-CSS-and-JQuery
-This is an app template that has basic app features, such as a menu, scrollable navigation bar, and footer with icons. It is a responsive template: being able to scroll the navigation bar and to select each item from it that generates a list, and selecting any content from that list and subscribing to it, and to be able to go back to the list within the app. Overall it focuses one how an average app looks like and that each of its function works properly.
